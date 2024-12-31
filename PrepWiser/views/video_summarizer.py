@@ -21,8 +21,7 @@ def punctuate_online(text):
     return response.text
 
 def get_video_details(video_id):
-    # key="AIzaSyAyH44j6tvFAD2ZPbjKmE7nv7XPEQH3ueY"
-    # key="AIzaSyD38VenuMEiVNTPN4AlRXanr_l7RPeyWC8"
+    
     key=""
     youtube = build('youtube', 'v3', developerKey="")
     request = youtube.videos().list(
