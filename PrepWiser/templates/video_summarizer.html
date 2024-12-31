@@ -1,0 +1,8 @@
+<form method="post">
+    {% csrf_token %}
+    <input type="text" name="message" placeholder="Your Video Link">
+    <button type="submit">Submit</button>
+</form>
+
+<p>Summary: {{ summary }}</p>
+<p>Transcripts: {{ transcript }}</p>

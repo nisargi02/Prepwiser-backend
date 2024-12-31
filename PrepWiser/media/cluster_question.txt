@@ -1,0 +1,33 @@
+Module 1:
+ - IX. Compare TTL and CMOS logic families.
+
+Module 2:
+ - V. (a) Explain the working of a 4-bit magnitude comparator.
+ - IV. Derive the expressions for a 4-bit magnitude comparator and implement it
+
+Module 3:
+ - VII. (a) Draw the logic diagram of a four-bit binary ripple counter. Show that a (6)
+ - VIII. (a) Design a PLA circuit to implement the functions (6)
+ - X. (5)
+ - VII. Differentiate PLA and PAL. Draw the PLA for functions: (10)
+ - IX. (a) Draw and explain the working of Basic RTL NOR gate. (5)
+ - VIII. Write short notes on (1) Fan in and Fan out (ii) Propogation delay
+
+Module 4:
+ - IV. (a) Implement the following four Boolean expressions with three half adders: (6)
+ - V. (a) What is Carry Propagation delay? Design a 4- bit binary parallel adder (6)
+ - VI. (a) Design a synchronous counter using .T flip-flops which counts the (6)
+ - VII. (a) Design a 2 bit synchronous up counter using .1K flipflops. (5)
+ - IV. (a) Explain the working of a 4-bit BCD adder with block diagram
+ - VIII. (a) Design a combinational circuit using a ROM.The circuit accepts three bit
+ - V. (a) Design a decimal adder using 4-bit binary parallel adders.
+ - V. — Implement the following function using a multiplexer
+
+Module 5:
+ - IX. (a) Draw circuit of an TTL NAND gate and explain the operation. (7)
+ - V. (a) Explain the working of Decimal adder with block diagram and explain the (5)
+ - VI. (a) Explain the working of SR latch using NOR gate with the help of logic (6)
+ - VI. (a) Explain the working of SR latch with NAND gate with the help of logic diagram
+ - IX. Explain the working of RTL and DTL circuit. Explain how fan-out of DTL gate
+ - IV. Explain the design procedure of combinational circuit with an example
+

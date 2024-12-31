@@ -1,0 +1,14 @@
+<form method="post">
+    {% csrf_token %}
+    <input type="text" name="message" placeholder="Ask a question...">
+    <button type="submit">Send</button>
+</form>
+
+{% for entry in chat_history %}
+    <p>User: {{ entry.user }}</p>
+    <p>Bot: {{ entry.bot }}</p>
+{% endfor %}
+
+{% if error %}
+<p>{{ error }}</p>
+{% endif %}
